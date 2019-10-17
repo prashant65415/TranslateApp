@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TranslateApp</string>
+    <string name="English">en</string>
+    <string name="Chinese">zh</string>
+    <string name="Hindi">hi</string>
+    <string name="hello_world">" नमस्ते दुनिया!"</string>
+    <string name="text_how">"क्या हाल है?"</string>
+</resources>
