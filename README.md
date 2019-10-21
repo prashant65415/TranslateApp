@@ -18,5 +18,7 @@ To add more languages, please find below steps:
 2)Add the language string in strings.xml and give locale value.
 3)Add the language string in csv file, and write translation strings.		
 
+Implemented test cases in MainActivityTest.java file.
+
 Please let me know if you need any other information.
 			
